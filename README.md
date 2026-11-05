@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E5383B&center=true&vCenter=true&width=640&height=40&lines=Learning+IT+from+the+cable+up.;Supporting+Swiss+public+administrations.;Breaking+my+homelab+on+purpose.;Fixing+it+again.)](https://www.jonesthala.ch/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E5383B&center=true&vCenter=true&width=640&height=40&lines=ICT+apprentice+%40+CM+Informatik;Support+for+Swiss+public+administrations;Linux+%C2%B7+Bash+%C2%B7+PowerShell;Self-hosting+on+Proxmox)](https://www.jonesthala.ch/)
 
 <a href="https://www.jonesthala.ch/"><img src="https://img.shields.io/badge/PORTFOLIO-jonesthala.ch-E5383B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=131416" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/jones-thala-0372a9335/"><img src="https://img.shields.io/badge/LinkedIn-Jones%20Thala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=131416" alt="LinkedIn" /></a>
@@ -25,7 +25,7 @@
  Lab       Proxmox homelab, self-hosting
  Shell     bash, PowerShell
  Status    open to new connections
- Uptime    <!--UPTIME:START-->807 days (since 19.08.2024)<!--UPTIME:END-->
+ Uptime    <!--UPTIME:START-->since 19.08.2024<!--UPTIME:END-->
 ```
 
 <br />
