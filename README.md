@@ -25,7 +25,7 @@
  Lab       Proxmox homelab, self-hosting
  Shell     bash, PowerShell
  Status    open to new connections
- Uptime    <!--UPTIME:START-->809 days (since 19.08.2024)<!--UPTIME:END-->
+ Uptime    <!--UPTIME:START-->810 days (since 19.08.2024)<!--UPTIME:END-->
 ```
 
 <br />
